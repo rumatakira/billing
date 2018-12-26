@@ -1,0 +1,1 @@
+All data of our users and their clients are encrypted according to the sha512 standard, the API access keys use the ed25519 standard.

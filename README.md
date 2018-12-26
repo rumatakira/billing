@@ -2,6 +2,16 @@
 
 Billingolang is a universal billing project, written in golang. The project includes access via API, website, integration into accounting systems, reports and graphics.
 
+* [General Billing Example](docs/eng/billing-common-example.md)
+* [Pricing policy](docs/eng/pricing.md)
+* [Security of financial data](docs/eng/financial-security.md)
+* [Security of personal data](docs/eng/personal-security.md)
+* [Relations with Investors](docs/eng/investors.md)
+* [Architecture and scaling](docs/eng/architecture.md)
+* [Current state & screenshots](docs/eng/current-state.md)
+* [Roadmap](docs/eng/roadmap.md)
+* [Contacts](docs/eng/contacts.md)
+
 © 2018 All rights reserved, [Kirill Lapchinsky](https://github.com/rumatakira). 
 
 # Russian version
