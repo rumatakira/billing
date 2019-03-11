@@ -12,7 +12,7 @@ Billingolang is a universal billing project, written in golang. The project incl
 * [Roadmap](docs/eng/roadmap.md)
 * [Contacts](docs/eng/contacts.md)
 
-© 2018 All rights reserved, [Kirill Lapchinsky](https://github.com/rumatakira). 
+© 2018 All rights reserved, [Kirill A.Lapchinsky](https://github.com/rumatakira). 
 
 # Russian version
 
@@ -28,4 +28,4 @@ Billingolang - проект универсального биллинга, об�
 * [Дорожная карта](docs/rus/roadmap.md)
 * [Контакты](docs/rus/contacts.md)
 
-© 2018 Все права защищены, [Кирилл Лапчинский](https://github.com/rumatakira). 
+© 2018 Все права защищены, [Кирилл А.Лапчинский](https://github.com/rumatakira). 
