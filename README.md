@@ -1,6 +1,6 @@
 # English version
 
-Billingolang is a universal billing project, written in golang. The project includes access via API, website, integration into accounting systems, reports and graphics.
+Billing is a universal billing project, written in Phalcon PHP framework. The project includes access via API, website, integration into accounting systems, reports and graphics.
 
 * [General Billing Example](docs/eng/billing-common-example.md)
 * [Pricing policy](docs/eng/pricing.md)
@@ -16,7 +16,7 @@ Billingolang is a universal billing project, written in golang. The project incl
 
 # Russian version
 
-Billingolang - проект универсального биллинга, общего назначения, написанный на golang. Проект включает в себя доступ через API, сайт, интеграцию в бухгалтерские системы, отчеты и графики.
+Billing - проект универсального биллинга, общего назначения, написанный на golang. Проект включает в себя доступ через API, сайт, интеграцию в бухгалтерские системы, отчеты и графики.
 
 * [Общий пример биллинга](docs/rus/billing-common-example.md)
 * [Ценовая политика](docs/rus/pricing.md)

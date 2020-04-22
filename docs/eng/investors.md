@@ -1,3 +1,1 @@
-All relationships between Billingolang and investors are governed by the number of Billingolang tokens issued on the [Waves] platform (https://wavesplatform.com/) held by a particular investor. Since all profits from the future activities of Billingolang will be accumulated on the wallet - token publisher, exactly 50% of these profits will be automatically and proportionally distributed through unchanged smart contracts between the holders of the Billingolang tokens.
-
 We are open for both crowdfunding and crowdsourcing.

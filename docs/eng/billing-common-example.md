@@ -1,7 +1,7 @@
 Ruslan - the owner of the gym in which there are two rooms - a strength gym and fitness.
-Ruslan becomes a client of Billingolang. From the point of view of the Billingolang system, Ruslan is our User.
+Ruslan becomes a client of Billing. From the point of view of the Billing system, Ruslan is our User.
 
-Of course that Ruslan may have several gyms, and even in different cities (divisions), and in each of them there are employees who will interact with Billingolang on a specific system, and access rights. But obout this not in this section.
+Of course that Ruslan may have several gyms, and even in different cities (divisions), and in each of them there are employees who will interact with Billing on a specific system, and access rights. But obout this not in this section.
 
 1. Ruslan fills in his and / or his company data including possible forms of payments, storing keys for selected payment extensions (addons). Suppose that the credit cards are accepted through Stripe Gateway.
 2. Ruslan forms two products - Strength gym and Fitness.
@@ -77,7 +77,7 @@ Of course that Ruslan may have several gyms, and even in different cities (divis
    | Back Massage                  | Duration 15 minutes<br />Price -15 euro  | Strength gym, Fitness |
    | Full Massage                  | Duration 30 minutes<br />Price - 30 euro | Strength gym, Fitness |
 
-7. Kirill is a client of Ruslan. From the point of view of Billingolang - Ruslans customer.
+7. Kirill is a client of Ruslan. From the point of view of Billing - Ruslans customer.
 
 8. Kirill on Ruslan’s own website, or on Ruslan’s website integrated into our system, chooses three one-time subscriptions to the Strength gym product for himself and two repeated Yoga subscriptions for his wife and Pilates for his daughter, with some extensions, simply marking them:
 
@@ -107,8 +107,8 @@ Of course that Ruslan may have several gyms, and even in different cities (divis
 
 9. Kirill chooses one or several available payment methods previously identified by Ruslan.
 
-10. Billingolang forms invoices for payment and sends them to Ruslan and Kirill. If necessary, integrating them into the accounting system of Ruslan.
+10. Billing forms invoices for payment and sends them to Ruslan and Kirill. If necessary, integrating them into the accounting system of Ruslan.
 
-11. Billingolang consistently conducts Kirill through the first payment for each subscription.
+11. Billing consistently conducts Kirill through the first payment for each subscription.
 
-12. Billingolang starts repeating (recurring) billing for recurring subscriptions on the saved data of payment add-ons entered by Kirill during first payment.
+12. Billing starts repeating (recurring) billing for recurring subscriptions on the saved data of payment add-ons entered by Kirill during first payment.
