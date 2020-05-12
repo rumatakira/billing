@@ -1,4 +1,4 @@
-API structure - written in Swagger (OpenAPI 2.0). This avoids errors by different programmers, generates clean well-documented code and API documentation.
+API structure - written in Swagger (OpenAPI 3.0). This avoids errors by different programmers, generates clean well-documented code and API documentation.
 
 Frontend: Symfony 5 - all you need "from box".
 
