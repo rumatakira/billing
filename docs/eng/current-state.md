@@ -23,3 +23,7 @@
 5. **Generated, but good API documentation:**
 
 ![](../images/apidocs.PNG)
+
+6. **Most used Paymet Systems plugins:**
+
+![](../images/plugins.PNG)
