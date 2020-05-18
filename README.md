@@ -1,6 +1,12 @@
 # English version
 
-Billing is a universal billing project, written in Phalcon PHP framework. The project includes access via API, website, integration into accounting systems, reports and graphics.
+Billing is a universal billing project, Subscription Billing & Revenue Operations
+for Fast-growth B2B SaaS. The project includes access via API, website, integration into accounting systems, reports and graphics.
+
+Bill yearly, monthly or for any period — even days. Charge your customers based on usage, if your pricing strategy asks for it. Choose to renew billing cycles based on the date customers signed up on, or bill all customers on a specific date. You can even have customized billing dates for each customer. And of course, there’s auto-calculating prorations for upgrades & downgrades, and even rules for how you’d like to handle cancellation.
+
+You can accept cryptocurrencies too. It is not possible to set up recurring billing for cryptocurrencies, but you can regularly invoice your customers and our system will track the complete transaction inside the blockchain of the used cryptocurrency. And will notify you and your client of success or failure. Of course, for these purposes, we will need to save your and your customer crypto-wallet numbers. Just numbers nothing more.
+
 
 * [General Billing Example](docs/eng/billing-common-example.md)
 * [Pricing policy](docs/eng/pricing.md)
@@ -16,7 +22,11 @@ Billing is a universal billing project, written in Phalcon PHP framework. The pr
 
 # Russian version
 
-Billing - проект универсального биллинга, общего назначения, написанный на golang. Проект включает в себя доступ через API, сайт, интеграцию в бухгалтерские системы, отчеты и графики.
+Billing - это универсальный биллинговый проект, биллинг по подписке и B2B SaaS. Проект включает в себя доступ через API, веб-сайт, интеграцию в учетные системы, отчеты и графику.
+
+Выставляйте счёта за год, месяц или за любой период - даже дни. Выберите возобновление циклов выставления счетов на основе даты, на которую клиенты зарегистрировались, или выставьте счет всем клиентам на определенную дату. Вы даже можете настроить даты выставления счетов для каждого клиента. И, конечно, есть автоматическое вычисление выплат для обновлений и отмен выставления счетов.
+
+Вы также можете принимать криптовалюты. Невозможно настроить повторяющийся биллинг для криптовалют, но вы можете регулярно выставлять счета своим клиентам, и наша система будет отслеживать полную транзакцию внутри цепочки блоков используемой криптовалюты. И уведомит вас и вашего клиента об успехе или неудаче. Конечно, для этих целей нам потребуется сохранить номера вашего крипто-кошелька и вашего клиента. Только номера криптоошельков -  больше ничего.
 
 * [Общий пример биллинга](docs/rus/billing-common-example.md)
 * [Ценовая политика](docs/rus/pricing.md)

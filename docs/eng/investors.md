@@ -1,1 +1,1 @@
-We are open for both crowdfunding and crowdsourcing.
+We are open for institutional, state investors, business angels, both crowdfunding and crowdsourcing.

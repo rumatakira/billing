@@ -1,8 +1,8 @@
-API structure - written in Swagger (OpenAPI 3.0). This avoids errors by different programmers, generates clean well-documented code and API documentation.
+API structure - written in Swagger (OpenAPI 2.0). This avoids errors by different programmers, generates clean well-documented code and API documentation.
 
 Frontend: Symfony 5 - all you need "from box".
 
-Backend: RAW PHP with SWOOLE.
+Backend: RAW PHP with SWOOLE. In modern conditions these are speeds comparable to a pure golang backend.
 
 Database: MySQL cluster 7.6 (MySQL server 8.0).
 
