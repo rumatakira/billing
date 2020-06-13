@@ -1,12 +1,12 @@
 API structure - written in Swagger (OpenAPI 2.0). This avoids errors by different programmers, generates clean well-documented code and API documentation.
 
-Frontend: Symfony 5 - all you need "from box".
+Site backend: Symfony 5 - all you need "from box".
 
-Backend: RAW PHP with SWOOLE. In modern conditions these are speeds comparable to a pure golang backend.
+API backend: RAW PHP with PeactPHP, symfony/routing. These are speeds same to Node.js backend.
 
 Database: MySQL cluster 7.6 (MySQL server 8.0).
 
-Incoming server and balancer - Nginx. Websockets are allowed.
+Incoming server ReactPHP, Websockets are allowed. Balancer - Nginx.
 
 Messaging between components of the system will be made on the NATS MQ.
 
